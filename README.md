@@ -55,3 +55,7 @@ pip install -r requirements.txt
 - 1: Set Drone speed to 1
 - 2: Set Drone speed to 2
 - 3: Set Drone speed to 3
+
+## Demonstration of AI Recon Drone's Face Tracking feature
+https://www.youtube.com/watch?v=oYa4MbPf860
+
