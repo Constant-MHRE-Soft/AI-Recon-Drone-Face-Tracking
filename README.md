@@ -1,5 +1,5 @@
 # A.I. Recon Drone Face Follow and Surveillance.
-This is a rather simplistic approach to be able to launch your Tello drone & hav it track your face. 
+This is a rather simplistic approach to be able to launch your Tello drone & have it track your face. 
 This approach has been tested & proven to work with the DJI Tello Drone.
 
 Tested with Python 3.7, but it also may be compatible with other versions.
