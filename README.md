@@ -1,4 +1,5 @@
 # A.I. Recon Drone Face Follow and Surveillance.
+We have tried to use a Tello Drone which is programmable with Python. We programmed the drone to detect a face using computer vision and follow it. 
 This is a rather simplistic approach to be able to launch your Tello drone & have it track your face. 
 This approach has been tested & proven to work with the DJI Tello Drone.
 
